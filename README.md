@@ -1,1 +1,2 @@
-# block-thoch-my-own-lib
+# collisionAlgorithm
+Algorithm to detect collision between two objects
